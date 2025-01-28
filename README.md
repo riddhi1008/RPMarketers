@@ -1,3 +1,2 @@
-<meta name="google-site-verification" content="RmP0O0fMcp5pPQH8T5XslDfu5K0jnhp-2FkNva3ZkHU" />
-# RPMarketers
+#RPMarketers
 Market research insights and growth
